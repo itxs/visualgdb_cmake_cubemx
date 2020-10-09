@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "cdc", "cdc.vgdbcmake", "{609774CB-07A7-409A-AB67-A9B0788A0E51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		MinSizeRel|VisualGDB = MinSizeRel|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		RelWithDebInfo|VisualGDB = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609774CB-07A7-409A-AB67-A9B0788A0E51}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{609774CB-07A7-409A-AB67-A9B0788A0E51}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{609774CB-07A7-409A-AB67-A9B0788A0E51}.MinSizeRel|VisualGDB.ActiveCfg = MinSizeRel|VisualGDB
+		{609774CB-07A7-409A-AB67-A9B0788A0E51}.MinSizeRel|VisualGDB.Build.0 = MinSizeRel|VisualGDB
+		{609774CB-07A7-409A-AB67-A9B0788A0E51}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{609774CB-07A7-409A-AB67-A9B0788A0E51}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{609774CB-07A7-409A-AB67-A9B0788A0E51}.RelWithDebInfo|VisualGDB.ActiveCfg = RelWithDebInfo|VisualGDB
+		{609774CB-07A7-409A-AB67-A9B0788A0E51}.RelWithDebInfo|VisualGDB.Build.0 = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D520471-1B01-4844-9525-509CB0620BC1}
+	EndGlobalSection
+EndGlobal
